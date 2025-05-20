@@ -1,1 +1,1 @@
-# basic_statistics.ipynb
+This notebook demonstrates how to calculate basic statistical measures like mean,median,mode,standard deviation, and variance. a sample dataset of students scores was analyzed using Python libraries such as Pandas, NumPy, and Seaborn.
